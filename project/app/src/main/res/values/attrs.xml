@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpectrogramView">
+        <attr name="window_type" format="reference" />
+        <attr name="window_size" format="integer" />
+        <attr name="overlap" format="integer" />
+        <attr name="columns" format="integer" />
+        <attr name="wrap" format="boolean" />
+        <attr name="sampling_rate" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="PowerSpectrumView">
+        <attr name="ws" format="integer" />
+        <attr name="wo" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="OscillogramView">
+    </declare-styleable>
+</resources>

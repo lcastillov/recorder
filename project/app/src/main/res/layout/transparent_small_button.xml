@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="@dimen/font_size_medium"
+    android:textColor="@color/color_white_alpha_87"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/button_transparent_selector"
+    android:clickable="true"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingLeft="5dip"
+    android:paddingRight="5dip" />
